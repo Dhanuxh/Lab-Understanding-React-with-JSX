@@ -1,0 +1,10 @@
+/* add your styles here */
+h1{
+    color: rgb(255, 0, 0);
+    text-align: center;
+}
+img{
+    margin: 30px;
+    width: 600px;
+    height:450px;
+}
